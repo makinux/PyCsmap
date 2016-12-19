@@ -1,5 +1,5 @@
 ## PyCsmap
-Implementation of csmap(https://github.com/frogcat/csmap/) in python
+Implementation of csmap(https://github.com/frogcat/csmap/) in python2.7
 
 ## Require
 * PIL
