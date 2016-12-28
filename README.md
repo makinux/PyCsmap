@@ -11,14 +11,14 @@ Implementation of csmap(https://github.com/frogcat/csmap/) in python2.7
 python CSMapMake.py 7303 7306 3105 3106 13 --outputPath output_dir
 ``` 
 
-arg1:指定する範囲の始点となるタイルのx方向の位置
+arg1:X position of the start tile
 
-arg2:指定する範囲の終点となるタイルのx方向の位置
+arg2:X position of the end tile
 
-arg3:指定する範囲の始点となるタイルのy方向の位置
+arg3:Y position of the start tile
 
-arg4:指定する範囲の終点となるタイルのy方向の位置
+arg4:Y position of the end tile
 
-arg5:zoom level
+arg5:Zoom level
 
---outputPath：出力先ディレクトリの指定。省略可。デフォルトは"./"
+--outputPath：output directory. The default is the current directory
